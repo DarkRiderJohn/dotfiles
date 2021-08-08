@@ -7,4 +7,4 @@ cd dotfiles
 bash install
 ```
 
-
+// what happen to your fb account??
